@@ -18,5 +18,4 @@ module.exports = {
       "cupcake",
     ],
   },
-  plugins: [require("daisyui"), require("tailwindcss-gradient")],
 };
